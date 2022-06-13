@@ -1,4 +1,4 @@
-# Frontend Mentor - IP address tracker solution
+# Frontend Mentor - Rock, Paper, Scissors Solution
 
 This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/waldosmuts/ip-address-tracker)
-- Live Site URL: [Live Preview](https://crowdfund-mastercraft.netlify.app/)
+- Solution URL: [GitHub Repo](https://github.com/waldosmuts/rock-paper-scissors)
+- Live Site URL: [Live Preview](https://rock-paper-scissors-fem.netlify.app/)
 
 ## My process
 
@@ -43,8 +43,6 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS Library
 - [Tailwind](https://tailwindcss.com/) - CSS Framework
-- [Ipify](https://www.ipify.org/) - IP Address API
-- [Mapbox](https://www.mapbox.com/) - Map API
 
 ### Continued development
 
